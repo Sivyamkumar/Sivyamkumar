@@ -21,8 +21,15 @@
   <tr>
     <td align="center"><b>25–35%</b><br/>faster release cycles via CI/CD automation</td>
     <td align="center"><b>550+</b><br/>DSA problems solved</td>
-    <td align="center"><b></b><br/>certs on the roadmap (SAA, CKA)</td>
-  </tr>
+<td align="center">
+  <b>🏅 AWS Certifications</b><br/><br/>
+  <b>AWS Certified Solutions Architect – Associate</b><br/>
+  <i>Designing secure, resilient, cost-optimized architectures</i><br/>
+  <a href="https://www.credly.com/badges/28077b3e-081a-434e-9f9d-2a159c945844/linked_in?t=tngyml">🔗 View Badge</a><br/><br/>
+  <b>AWS Certified Cloud Practitioner</b><br/>
+  <i>Strong foundation in AWS cloud concepts, services, and security</i><br/>
+  <a href="https://www.credly.com/earner/earned/badge/263157c5-2d35-4d4d-a901-91ee695826fb">🔗 View Badge</a>
+</td>  </tr>
 </table>
 
 ---
